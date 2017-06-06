@@ -4,3 +4,8 @@
 		background-position: cover;
 	}
 }
+@media (max-width: 499px){
+	.contenedor{ 
+		background-image: url(../img/maxresdefault.jpg); 
+		background-position: cover;
+	}
